@@ -1,0 +1,18 @@
+body{
+    background:url(aa-a-letter-logo-design-with-ribbon-effect-and-pink-gradient-vector-illustration-2BHJGD4.jpg);
+    
+}
+img{
+    max-height: 100px;
+    max-width: 100px;
+    margin:0 auto;
+}
+ #login-modal, .modal-dialog{
+    width:350px;
+    /* margin:15px; */
+   /* align-content: center; */
+   
+}
+#login-modal, input [type="password"], input[type="text"] {
+margin:10px;
+}
